@@ -1,16 +1,25 @@
-## Hi there 👋
+I am a Software & Electrical Engineering student and an active member of DRIFT(The Formula Student EV Team of IHU)
 
-<!--
-**rafailmarios/rafailmarios** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🔧 In the team, I contribute as:
+- ⚡ Low Voltage (LV) Systems Responsible
+- 💻 Software Developer
 
-Here are some ideas to get you started:
+💡 My work focuses on developing and supporting embedded and software systems within the vehicle.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 Technical Interests
+- Java (currently deepening knowledge)
+- Web Development (HTML, CSS)
+- Embedded & Electronic Systems
+- Event-Driven Architecture (EDA)
+- Backend Technologies (Spring, Kafka)
+- Kotlin (exploring modern backend development)
+
+---
+
+## 📚 Currently Learning
+- Advanced Java (OOP, backend development)
+- Kotlin for modern applications
+- Spring Framework
+- Apache Kafka & event-driven systems
